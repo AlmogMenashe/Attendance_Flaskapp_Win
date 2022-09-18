@@ -10,4 +10,4 @@ runAttendance.py - Filtering information in a database local.
 
 hello.py - Our web app
 
-![ezgif-1-2bafbf733a](https://user-images.githubusercontent.com/58885455/190916252-fc4abac9-fca0-4b47-b0e6-b2e59e66df3e.gif)
+![ezgif-1-1afc2ae45f](https://user-images.githubusercontent.com/58885455/190916753-06d570a5-3acd-405e-a431-b4bcb719ca6c.gif)
