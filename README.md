@@ -10,6 +10,6 @@ runAttendance.py - Filtering information in a database local.
 
 hello.py - Our web app
 
-![image](https://user-images.githubusercontent.com/58885455/190916156-276fec11-3e69-41fd-a8e8-5fc18eac4548.png)
+![gif](https://user-images.githubusercontent.com/58885455/190916156-276fec11-3e69-41fd-a8e8-5fc18eac4548.png)
 
 https://im.ezgif.com/tmp/ezgif-1-65dcdf75ec.gif
